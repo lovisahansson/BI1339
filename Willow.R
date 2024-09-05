@@ -12,6 +12,7 @@ install.packages('patchwork')
 install.packages('cowplot')
 install.packages('viridis')
 install.packages('usethis')
+install.packages('gitcreds')
 #install.packages('PerformaceAnalytics')
 #install.packages('lme4')
 
@@ -20,7 +21,10 @@ library('ggpubr')
 library('patchwork')
 library('cowplot')
 library('viridis')
+library('usethis')
+library('gitcreds')
 #library('PerformanceAnalytics')
 #library('lme4')
 
 #------------------------------------------------------------------------------
+
